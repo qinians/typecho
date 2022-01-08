@@ -1,6 +1,7 @@
 ## 前言
 本版本是由qinians维护的，适配国内环境需要。
-还有
+还有：
+
 陈梦琪和她男朋友分手！！！
 
 Typecho Blogging Platform
